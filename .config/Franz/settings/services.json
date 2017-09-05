@@ -1,0 +1,66 @@
+{
+  "services": [
+    {
+      "notifications": true,
+      "count_message_direct": 0,
+      "count_message_indirect": 0,
+      "zoom": 0,
+      "showIndirectMessages": true,
+      "enabled": true,
+      "focusMode": true,
+      "id": "f6d4e92a-68ee-bd19-f9fa-2155cc31bb04",
+      "order": 1,
+      "service": "slack",
+      "name": "CSH",
+      "mute_audio": false,
+      "customURL": false,
+      "team": "cshrit",
+      "custom_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-05-20/5003994773_c06caeea0ee7ef404716_88.jpg"
+    },
+    {
+      "notifications": true,
+      "count_message_direct": 0,
+      "count_message_indirect": 0,
+      "zoom": 0,
+      "showIndirectMessages": true,
+      "enabled": true,
+      "focusMode": true,
+      "id": "bffa7797-ed37-a70c-334e-eb28df2c6c73",
+      "order": 2,
+      "service": "messenger",
+      "name": "Messenger",
+      "mute_audio": false,
+      "customURL": false
+    },
+    {
+      "notifications": true,
+      "count_message_direct": 0,
+      "count_message_indirect": 0,
+      "zoom": 0,
+      "showIndirectMessages": true,
+      "enabled": true,
+      "focusMode": true,
+      "id": "7b0698b4-de2f-e914-e4f2-4da70b9540b2",
+      "order": 3,
+      "service": "telegram",
+      "name": "Telegram",
+      "mute_audio": false,
+      "customURL": false
+    },
+    {
+      "notifications": true,
+      "count_message_direct": 0,
+      "count_message_indirect": 0,
+      "zoom": 0,
+      "showIndirectMessages": true,
+      "enabled": true,
+      "focusMode": true,
+      "id": "7be44e97-82a8-9591-86bb-59b4398ab1a9",
+      "order": 4,
+      "service": "steamchat",
+      "name": "Steam",
+      "mute_audio": false,
+      "customURL": false
+    }
+  ]
+}

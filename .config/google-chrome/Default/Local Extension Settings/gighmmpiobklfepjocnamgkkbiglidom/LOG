@@ -1,0 +1,80 @@
+2017/08/27-14:51:42.996 979 Reusing MANIFEST /home/jacob/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/08/27-14:51:42.996 979 Recovering log #77
+2017/08/27-14:51:43.037 979 Level-0 table #80: started
+2017/08/27-14:51:43.114 979 Level-0 table #80: 2583707 bytes OK
+2017/08/27-14:51:43.120 979 Delete type=0 #77
+2017/08/27-14:52:43.687 2642 Level-0 table #83: started
+2017/08/27-14:52:43.716 2642 Level-0 table #83: 2584168 bytes OK
+2017/08/27-14:52:43.718 2642 Delete type=0 #81
+2017/08/27-14:52:43.719 2642 Compacting 4@0 + 2@1 files
+2017/08/27-14:52:43.787 2642 Generated table #84@0: 1 keys, 2583662 bytes
+2017/08/27-14:52:43.818 2642 Generated table #85@0: 2 keys, 2583482 bytes
+2017/08/27-14:52:43.820 2642 Generated table #86@0: 4 keys, 391 bytes
+2017/08/27-14:52:43.820 2642 Compacted 4@0 + 2@1 files => 5167535 bytes
+2017/08/27-14:52:43.821 2642 compacted to: files[ 0 5 1 0 0 0 0 ]
+2017/08/27-14:52:43.822 2642 Delete type=2 #76
+2017/08/27-14:52:43.822 2642 Delete type=2 #73
+2017/08/27-14:52:43.822 2642 Delete type=2 #74
+2017/08/27-14:52:43.822 2642 Delete type=2 #78
+2017/08/27-14:52:43.822 2642 Delete type=2 #80
+2017/08/27-14:52:43.823 2642 Delete type=2 #83
+2017/08/27-14:52:44.575 2642 Level-0 table #88: started
+2017/08/27-14:52:44.606 2642 Level-0 table #88: 2584114 bytes OK
+2017/08/27-14:52:44.608 2642 Delete type=0 #82
+2017/08/27-14:52:45.315 2642 Level-0 table #90: started
+2017/08/27-14:52:45.344 2642 Level-0 table #90: 2583751 bytes OK
+2017/08/27-14:52:45.346 2642 Delete type=0 #87
+2017/08/27-14:52:46.348 2642 Level-0 table #92: started
+2017/08/27-14:52:46.379 2642 Level-0 table #92: 2583311 bytes OK
+2017/08/27-14:52:46.380 2642 Delete type=0 #89
+2017/08/27-14:52:46.953 2642 Level-0 table #94: started
+2017/08/27-14:52:46.989 2642 Level-0 table #94: 2583858 bytes OK
+2017/08/27-14:52:46.991 2642 Delete type=0 #91
+2017/08/27-14:52:46.992 2642 Compacting 1@0 + 1@1 files
+2017/08/27-14:52:47.039 2642 Generated table #95@0: 1 keys, 2583657 bytes
+2017/08/27-14:52:47.039 2642 Compacted 1@0 + 1@1 files => 2583657 bytes
+2017/08/27-14:52:47.040 2642 compacted to: files[ 3 5 1 0 0 0 0 ]
+2017/08/27-14:52:47.041 2642 Delete type=2 #71
+2017/08/27-14:52:47.041 2642 Delete type=2 #90
+2017/08/27-14:52:47.706 2642 Level-0 table #97: started
+2017/08/27-14:52:47.739 2642 Level-0 table #97: 2583905 bytes OK
+2017/08/27-14:52:47.744 2642 Delete type=0 #93
+2017/08/27-14:52:47.746 2642 Compacting 4@0 + 4@1 files
+2017/08/27-14:52:47.827 2642 Generated table #98@0: 1 keys, 2583811 bytes
+2017/08/27-14:52:47.858 2642 Generated table #99@0: 1 keys, 2583811 bytes
+2017/08/27-14:52:47.891 2642 Generated table #100@0: 1 keys, 2583662 bytes
+2017/08/27-14:52:47.921 2642 Generated table #101@0: 2 keys, 2583369 bytes
+2017/08/27-14:52:47.923 2642 Generated table #102@0: 4 keys, 394 bytes
+2017/08/27-14:52:47.923 2642 Compacted 4@0 + 4@1 files => 10335047 bytes
+2017/08/27-14:52:47.924 2642 compacted to: files[ 0 6 1 0 0 0 0 ]
+2017/08/27-14:52:47.925 2642 Delete type=2 #86
+2017/08/27-14:52:47.925 2642 Delete type=2 #97
+2017/08/27-14:52:47.925 2642 Delete type=2 #88
+2017/08/27-14:52:47.925 2642 Delete type=2 #84
+2017/08/27-14:52:47.926 2642 Delete type=2 #92
+2017/08/27-14:52:47.926 2642 Delete type=2 #85
+2017/08/27-14:52:47.926 2642 Delete type=2 #94
+2017/08/27-14:52:47.927 2642 Delete type=2 #72
+2017/08/27-14:52:47.927 2642 Expanding@1 1+1 (2583657+2605675 bytes) to 6+1 (12918704+2605675 bytes)
+2017/08/27-14:52:47.927 2642 Compacting 6@1 + 1@2 files
+2017/08/27-14:52:47.971 2642 Generated table #103@1: 2 keys, 2583645 bytes
+2017/08/27-14:52:48.016 2642 Generated table #104@1: 1 keys, 2583811 bytes
+2017/08/27-14:52:48.061 2642 Generated table #105@1: 1 keys, 2583811 bytes
+2017/08/27-14:52:48.099 2642 Generated table #106@1: 1 keys, 2583662 bytes
+2017/08/27-14:52:48.141 2642 Generated table #107@1: 2 keys, 2583369 bytes
+2017/08/27-14:52:48.143 2642 Generated table #108@1: 6 keys, 448 bytes
+2017/08/27-14:52:48.143 2642 Compacted 6@1 + 1@2 files => 12918746 bytes
+2017/08/27-14:52:48.144 2642 compacted to: files[ 0 0 6 0 0 0 0 ]
+2017/08/27-14:52:48.144 2642 Delete type=2 #99
+2017/08/27-14:52:48.145 2642 Delete type=2 #95
+2017/08/27-14:52:48.145 2642 Delete type=2 #98
+2017/08/27-14:52:48.146 2642 Delete type=2 #101
+2017/08/27-14:52:48.146 2642 Delete type=2 #5
+2017/08/27-14:52:48.146 2642 Delete type=2 #102
+2017/08/27-14:52:48.146 2642 Delete type=2 #100
+2017/08/27-14:52:48.540 2642 Level-0 table #110: started
+2017/08/27-14:52:48.574 2642 Level-0 table #110: 2583751 bytes OK
+2017/08/27-14:52:48.575 2642 Delete type=0 #96
+2017/08/27-14:52:49.308 2642 Level-0 table #112: started
+2017/08/27-14:52:49.339 2642 Level-0 table #112: 2583282 bytes OK
+2017/08/27-14:52:49.341 2642 Delete type=0 #109

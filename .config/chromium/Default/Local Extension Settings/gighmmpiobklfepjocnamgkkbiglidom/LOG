@@ -1,0 +1,81 @@
+2017/08/19-18:44:10.714 1260 Reusing MANIFEST /home/jacob/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/08/19-18:44:10.714 1260 Recovering log #89
+2017/08/19-18:44:10.737 1260 Level-0 table #94: started
+2017/08/19-18:44:10.810 1260 Level-0 table #94: 2582491 bytes OK
+2017/08/19-18:44:10.814 1260 Delete type=0 #89
+2017/08/19-18:45:11.456 2874 Level-0 table #97: started
+2017/08/19-18:45:11.487 2874 Level-0 table #97: 2583000 bytes OK
+2017/08/19-18:45:11.489 2874 Delete type=0 #95
+2017/08/19-18:45:12.130 2874 Level-0 table #99: started
+2017/08/19-18:45:12.167 2874 Level-0 table #99: 2582624 bytes OK
+2017/08/19-18:45:12.170 2874 Delete type=0 #96
+2017/08/19-18:45:12.818 2874 Level-0 table #101: started
+2017/08/19-18:45:12.852 2874 Level-0 table #101: 2582621 bytes OK
+2017/08/19-18:45:12.854 2874 Delete type=0 #98
+2017/08/19-18:45:12.856 2874 Compacting 2@0 + 2@1 files
+2017/08/19-18:45:12.906 2874 Generated table #102@0: 1 keys, 2582519 bytes
+2017/08/19-18:45:12.938 2874 Generated table #103@0: 2 keys, 2582665 bytes
+2017/08/19-18:45:12.940 2874 Generated table #104@0: 4 keys, 393 bytes
+2017/08/19-18:45:12.940 2874 Compacted 2@0 + 2@1 files => 5165577 bytes
+2017/08/19-18:45:12.942 2874 compacted to: files[ 2 5 1 0 0 0 0 ]
+2017/08/19-18:45:12.942 2874 Delete type=2 #91
+2017/08/19-18:45:12.942 2874 Delete type=2 #97
+2017/08/19-18:45:12.943 2874 Delete type=2 #92
+2017/08/19-18:45:12.943 2874 Delete type=2 #94
+2017/08/19-18:45:14.112 2874 Level-0 table #106: started
+2017/08/19-18:45:14.145 2874 Level-0 table #106: 2582709 bytes OK
+2017/08/19-18:45:14.147 2874 Delete type=0 #100
+2017/08/19-18:45:14.627 2874 Level-0 table #108: started
+2017/08/19-18:45:14.656 2874 Level-0 table #108: 2582715 bytes OK
+2017/08/19-18:45:14.658 2874 Delete type=0 #105
+2017/08/19-18:45:14.659 2874 Compacting 1@0 + 1@1 files
+2017/08/19-18:45:14.694 2874 Generated table #109@0: 1 keys, 2582527 bytes
+2017/08/19-18:45:14.694 2874 Compacted 1@0 + 1@1 files => 2582527 bytes
+2017/08/19-18:45:14.696 2874 compacted to: files[ 3 5 1 0 0 0 0 ]
+2017/08/19-18:45:14.696 2874 Delete type=2 #77
+2017/08/19-18:45:14.697 2874 Delete type=2 #101
+2017/08/19-18:45:15.299 2874 Level-0 table #111: started
+2017/08/19-18:45:15.328 2874 Level-0 table #111: 2582624 bytes OK
+2017/08/19-18:45:15.330 2874 Delete type=0 #107
+2017/08/19-18:45:15.331 2874 Compacting 1@0 + 1@1 files
+2017/08/19-18:45:15.360 2874 Generated table #112@0: 1 keys, 2582530 bytes
+2017/08/19-18:45:15.360 2874 Compacted 1@0 + 1@1 files => 2582530 bytes
+2017/08/19-18:45:15.362 2874 compacted to: files[ 3 5 1 0 0 0 0 ]
+2017/08/19-18:45:15.362 2874 Delete type=2 #99
+2017/08/19-18:45:15.362 2874 Delete type=2 #66
+2017/08/19-18:45:15.942 2874 Level-0 table #114: started
+2017/08/19-18:45:15.978 2874 Level-0 table #114: 2582621 bytes OK
+2017/08/19-18:45:15.980 2874 Delete type=0 #110
+2017/08/19-18:45:15.981 2874 Compacting 1@0 + 1@1 files
+2017/08/19-18:45:16.033 2874 Generated table #115@0: 1 keys, 2582530 bytes
+2017/08/19-18:45:16.034 2874 Compacted 1@0 + 1@1 files => 2582530 bytes
+2017/08/19-18:45:16.035 2874 compacted to: files[ 3 5 1 0 0 0 0 ]
+2017/08/19-18:45:16.035 2874 Delete type=2 #111
+2017/08/19-18:45:16.036 2874 Delete type=2 #102
+2017/08/19-18:45:16.620 2874 Level-0 table #117: started
+2017/08/19-18:45:16.650 2874 Level-0 table #117: 2582618 bytes OK
+2017/08/19-18:45:16.652 2874 Delete type=0 #113
+2017/08/19-18:45:16.653 2874 Compacting 1@0 + 1@1 files
+2017/08/19-18:45:16.688 2874 Generated table #118@0: 1 keys, 2582519 bytes
+2017/08/19-18:45:16.720 2874 Generated table #119@0: 2 keys, 2582665 bytes
+2017/08/19-18:45:16.720 2874 Compacted 1@0 + 1@1 files => 5165184 bytes
+2017/08/19-18:45:16.721 2874 compacted to: files[ 3 6 1 0 0 0 0 ]
+2017/08/19-18:45:16.722 2874 Delete type=2 #108
+2017/08/19-18:45:16.722 2874 Delete type=2 #103
+2017/08/19-18:45:16.722 2874 Expanding@1 1+1 (2582527+3627380 bytes) to 6+1 (12913164+3627380 bytes)
+2017/08/19-18:45:16.722 2874 Compacting 6@1 + 1@2 files
+2017/08/19-18:45:16.752 2874 Generated table #120@1: 2 keys, 2582638 bytes
+2017/08/19-18:45:16.788 2874 Generated table #121@1: 1 keys, 2582530 bytes
+2017/08/19-18:45:16.835 2874 Generated table #122@1: 1 keys, 2582530 bytes
+2017/08/19-18:45:16.870 2874 Generated table #123@1: 1 keys, 2582519 bytes
+2017/08/19-18:45:16.904 2874 Generated table #124@1: 2 keys, 2582665 bytes
+2017/08/19-18:45:16.910 2874 Generated table #125@1: 6 keys, 447 bytes
+2017/08/19-18:45:16.910 2874 Compacted 6@1 + 1@2 files => 12913329 bytes
+2017/08/19-18:45:16.911 2874 compacted to: files[ 3 0 6 0 0 0 0 ]
+2017/08/19-18:45:16.911 2874 Delete type=2 #115
+2017/08/19-18:45:16.911 2874 Delete type=2 #119
+2017/08/19-18:45:16.912 2874 Delete type=2 #112
+2017/08/19-18:45:16.912 2874 Delete type=2 #118
+2017/08/19-18:45:16.912 2874 Delete type=2 #104
+2017/08/19-18:45:16.912 2874 Delete type=2 #109
+2017/08/19-18:45:16.913 2874 Delete type=2 #5

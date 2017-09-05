@@ -1,0 +1,123 @@
+2017/09/05-11:30:56.506 3786 Reusing MANIFEST /home/jacob/.config/vivaldi/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/09/05-11:30:56.507 3786 Recovering log #137
+2017/09/05-11:30:56.507 3786 Reusing old log /home/jacob/.config/vivaldi/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000137.log 
+2017/09/05-11:31:57.300 5295 Level-0 table #141: started
+2017/09/05-11:31:57.329 5295 Level-0 table #141: 2586004 bytes OK
+2017/09/05-11:31:57.330 5295 Delete type=0 #137
+2017/09/05-11:31:57.331 5295 Compacting 4@0 + 2@1 files
+2017/09/05-11:31:57.367 5295 Generated table #142@0: 1 keys, 2585621 bytes
+2017/09/05-11:31:57.410 5295 Generated table #143@0: 1 keys, 2586484 bytes
+2017/09/05-11:31:57.412 5295 Generated table #144@0: 4 keys, 393 bytes
+2017/09/05-11:31:57.412 5295 Compacted 4@0 + 2@1 files => 5172498 bytes
+2017/09/05-11:31:57.415 5295 compacted to: files[ 0 5 6 0 0 0 0 ]
+2017/09/05-11:31:57.415 5295 Delete type=2 #119
+2017/09/05-11:31:57.416 5295 Delete type=2 #117
+2017/09/05-11:31:57.416 5295 Delete type=2 #136
+2017/09/05-11:31:57.417 5295 Delete type=2 #138
+2017/09/05-11:31:57.417 5295 Delete type=2 #141
+2017/09/05-11:31:57.417 5295 Delete type=2 #131
+2017/09/05-11:31:58.519 5295 Level-0 table #146: started
+2017/09/05-11:31:58.548 5295 Level-0 table #146: 2585873 bytes OK
+2017/09/05-11:31:58.550 5295 Delete type=0 #140
+2017/09/05-11:31:59.252 5295 Level-0 table #148: started
+2017/09/05-11:31:59.285 5295 Level-0 table #148: 2585686 bytes OK
+2017/09/05-11:31:59.286 5295 Delete type=0 #145
+2017/09/05-11:31:59.288 5295 Expanding@1 1+1 (2585621+2585783 bytes) to 2+1 (5172105+2585783 bytes)
+2017/09/05-11:31:59.288 5295 Compacting 2@1 + 1@2 files
+2017/09/05-11:31:59.331 5295 Generated table #149@1: 1 keys, 2585621 bytes
+2017/09/05-11:31:59.374 5295 Generated table #150@1: 1 keys, 2586484 bytes
+2017/09/05-11:31:59.375 5295 Compacted 2@1 + 1@2 files => 5172105 bytes
+2017/09/05-11:31:59.376 5295 compacted to: files[ 1 4 7 0 0 0 0 ]
+2017/09/05-11:31:59.376 5295 Delete type=2 #110
+2017/09/05-11:31:59.376 5295 Delete type=2 #143
+2017/09/05-11:31:59.377 5295 Delete type=2 #142
+2017/09/05-11:31:59.999 5295 Level-0 table #152: started
+2017/09/05-11:32:00.033 5295 Level-0 table #152: 2586648 bytes OK
+2017/09/05-11:32:00.035 5295 Delete type=0 #147
+2017/09/05-11:32:00.727 5295 Level-0 table #154: started
+2017/09/05-11:32:00.761 5295 Level-0 table #154: 2586659 bytes OK
+2017/09/05-11:32:00.763 5295 Delete type=0 #151
+2017/09/05-11:32:02.025 5295 Level-0 table #156: started
+2017/09/05-11:32:02.062 5295 Level-0 table #156: 2763556 bytes OK
+2017/09/05-11:32:02.063 5295 Delete type=0 #153
+2017/09/05-11:32:02.064 5295 Compacting 1@0 + 1@1 files
+2017/09/05-11:32:02.099 5295 Generated table #157@0: 1 keys, 2586565 bytes
+2017/09/05-11:32:02.099 5295 Compacted 1@0 + 1@1 files => 2586565 bytes
+2017/09/05-11:32:02.100 5295 compacted to: files[ 3 4 7 0 0 0 0 ]
+2017/09/05-11:32:02.100 5295 Delete type=2 #154
+2017/09/05-11:32:02.101 5295 Delete type=2 #132
+2017/09/05-11:32:02.412 5295 Level-0 table #159: started
+2017/09/05-11:32:02.448 5295 Level-0 table #159: 2585573 bytes OK
+2017/09/05-11:32:02.450 5295 Delete type=0 #155
+2017/09/05-11:32:02.451 5295 Compacting 1@0 + 1@1 files
+2017/09/05-11:32:02.490 5295 Generated table #160@0: 1 keys, 2586554 bytes
+2017/09/05-11:32:02.490 5295 Compacted 1@0 + 1@1 files => 2586554 bytes
+2017/09/05-11:32:02.491 5295 compacted to: files[ 3 4 7 0 0 0 0 ]
+2017/09/05-11:32:02.491 5295 Delete type=2 #152
+2017/09/05-11:32:02.492 5295 Delete type=2 #126
+2017/09/05-11:32:03.117 5295 Level-0 table #162: started
+2017/09/05-11:32:03.146 5295 Level-0 table #162: 2585686 bytes OK
+2017/09/05-11:32:03.148 5295 Delete type=0 #158
+2017/09/05-11:32:03.149 5295 Compacting 4@0 + 1@1 files
+2017/09/05-11:32:03.213 5295 Generated table #163@0: 1 keys, 2585592 bytes
+2017/09/05-11:32:03.241 5295 Generated table #164@0: 1 keys, 2585573 bytes
+2017/09/05-11:32:03.272 5295 Generated table #165@0: 1 keys, 2763478 bytes
+2017/09/05-11:32:03.273 5295 Generated table #166@0: 4 keys, 391 bytes
+2017/09/05-11:32:03.273 5295 Compacted 4@0 + 1@1 files => 7935034 bytes
+2017/09/05-11:32:03.274 5295 compacted to: files[ 0 7 7 0 0 0 0 ]
+2017/09/05-11:32:03.275 5295 Delete type=2 #144
+2017/09/05-11:32:03.275 5295 Delete type=2 #156
+2017/09/05-11:32:03.275 5295 Delete type=2 #162
+2017/09/05-11:32:03.275 5295 Delete type=2 #146
+2017/09/05-11:32:03.276 5295 Delete type=2 #159
+2017/09/05-11:32:03.276 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:03.278 5295 Generated table #167@1: 6 keys, 445 bytes
+2017/09/05-11:32:03.278 5295 Compacted 1@1 + 1@2 files => 445 bytes
+2017/09/05-11:32:03.279 5295 compacted to: files[ 0 6 7 0 0 0 0 ]
+2017/09/05-11:32:03.279 5295 Delete type=2 #111
+2017/09/05-11:32:03.279 5295 Delete type=2 #166
+2017/09/05-11:32:03.279 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:03.323 5295 Generated table #168@1: 2 keys, 2586420 bytes
+2017/09/05-11:32:03.323 5295 Compacted 1@1 + 1@2 files => 2586420 bytes
+2017/09/05-11:32:03.324 5295 compacted to: files[ 0 5 7 0 0 0 0 ]
+2017/09/05-11:32:03.324 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:03.368 5295 Generated table #169@1: 1 keys, 2586554 bytes
+2017/09/05-11:32:03.369 5295 Compacted 1@1 + 1@2 files => 2586554 bytes
+2017/09/05-11:32:03.370 5295 compacted to: files[ 0 4 7 0 0 0 0 ]
+2017/09/05-11:32:03.371 5295 Delete type=2 #124
+2017/09/05-11:32:03.371 5295 Delete type=2 #106
+2017/09/05-11:32:03.372 5295 Delete type=2 #160
+2017/09/05-11:32:03.373 5295 Delete type=2 #157
+2017/09/05-11:32:03.374 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:03.411 5295 Generated table #170@1: 1 keys, 2585592 bytes
+2017/09/05-11:32:03.411 5295 Compacted 1@1 + 1@2 files => 2585592 bytes
+2017/09/05-11:32:03.412 5295 compacted to: files[ 0 3 7 0 0 0 0 ]
+2017/09/05-11:32:03.412 5295 Delete type=2 #148
+2017/09/05-11:32:03.413 5295 Delete type=2 #127
+2017/09/05-11:32:03.869 5295 Level-0 table #172: started
+2017/09/05-11:32:03.897 5295 Level-0 table #172: 2586648 bytes OK
+2017/09/05-11:32:03.899 5295 Delete type=0 #161
+2017/09/05-11:32:03.900 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:03.942 5295 Generated table #173@1: 1 keys, 2585592 bytes
+2017/09/05-11:32:03.942 5295 Compacted 1@1 + 1@2 files => 2585592 bytes
+2017/09/05-11:32:03.944 5295 compacted to: files[ 0 3 7 0 0 0 0 ]
+2017/09/05-11:32:03.944 5295 Delete type=2 #163
+2017/09/05-11:32:03.944 5295 Delete type=2 #133
+2017/09/05-11:32:04.578 5295 Level-0 table #175: started
+2017/09/05-11:32:04.608 5295 Level-0 table #175: 2586659 bytes OK
+2017/09/05-11:32:04.610 5295 Delete type=0 #171
+2017/09/05-11:32:04.611 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:04.647 5295 Generated table #176@1: 1 keys, 2585573 bytes
+2017/09/05-11:32:04.647 5295 Compacted 1@1 + 1@2 files => 2585573 bytes
+2017/09/05-11:32:04.648 5295 compacted to: files[ 0 3 7 0 0 0 0 ]
+2017/09/05-11:32:04.648 5295 Delete type=2 #149
+2017/09/05-11:32:04.649 5295 Delete type=2 #164
+2017/09/05-11:32:05.292 5295 Level-0 table #178: started
+2017/09/05-11:32:05.324 5295 Level-0 table #178: 2763655 bytes OK
+2017/09/05-11:32:05.327 5295 Delete type=0 #174
+2017/09/05-11:32:05.327 5295 Compacting 1@1 + 1@2 files
+2017/09/05-11:32:05.365 5295 Generated table #179@1: 1 keys, 2763478 bytes
+2017/09/05-11:32:05.365 5295 Compacted 1@1 + 1@2 files => 2763478 bytes
+2017/09/05-11:32:05.366 5295 compacted to: files[ 0 3 7 0 0 0 0 ]
+2017/09/05-11:32:05.366 5295 Delete type=2 #165
+2017/09/05-11:32:05.367 5295 Delete type=2 #150

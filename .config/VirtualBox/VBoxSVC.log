@@ -1,0 +1,37 @@
+VirtualBox XPCOM Server 5.1.26 r117224 linux.amd64 (Jul 27 2017 21:22:37) release log
+00:00:00.000171 main     Log opened 2017-08-27T19:40:03.846877000Z
+00:00:00.000173 main     Build Type: release
+00:00:00.000175 main     OS Product: Linux
+00:00:00.000176 main     OS Release: 4.12.8-2-ARCH
+00:00:00.000176 main     OS Version: #1 SMP PREEMPT Fri Aug 18 14:08:02 UTC 2017
+00:00:00.000197 main     DMI Product Name: 20HRCTO1WW
+00:00:00.000205 main     DMI Product Version: ThinkPad X1 Carbon 5th
+00:00:00.000244 main     Host RAM: 15798MB (15.4GB) total, 14379MB (14.0GB) available
+00:00:00.000247 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000247 main     Process ID: 19509
+00:00:00.000248 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001731 main     IPC socket path: /tmp/.vbox-jacob-ipc/ipcd
+00:00:00.106263 nspr-2   VirtualBox: object creation starts
+00:00:00.106409 nspr-2   Home directory: '/home/jacob/.config/VirtualBox'
+00:00:00.112688 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/volume-root) --> volume-root
+00:00:00.119408 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp4s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.120636 nspr-2   NAT: resolv.conf: nameserver 129.21.3.17
+00:00:00.120663 nspr-2   NAT: resolv.conf: nameserver 129.21.4.18
+00:00:00.120711 nspr-2   HostDnsMonitor: old information
+00:00:00.120718 nspr-2     no server entries
+00:00:00.120724 nspr-2     no domain set
+00:00:00.120729 nspr-2     no search string entries
+00:00:00.120734 nspr-2   HostDnsMonitor: new information
+00:00:00.120739 nspr-2     server 1: 129.21.3.17
+00:00:00.120746 nspr-2     server 2: 129.21.4.18
+00:00:00.120751 nspr-2     domain: wireless.rit.edu
+00:00:00.120756 nspr-2     search string 1: wireless.rit.edu
+00:00:00.120766 nspr-2   HostDnsMonitorProxy::notify
+00:00:00.125302 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.130171 nspr-2   VD: VDInit finished
+00:00:00.130364 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={0eb668d2-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.131395 nspr-2   VirtualBox: object created
+00:00:08.925697 main     VirtualBox: object deletion starts
+00:00:09.134196 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd945} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:13.926047 main     {00007f258c011dc0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:13.926279 main     VirtualBox: object deleted

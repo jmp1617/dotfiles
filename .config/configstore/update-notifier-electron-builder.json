@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1502726048425,
+	"update": {
+		"latest": "19.22.1",
+		"current": "13.6.0",
+		"type": "major",
+		"name": "electron-builder"
+	}
+}

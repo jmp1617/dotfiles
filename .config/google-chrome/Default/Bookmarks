@@ -1,0 +1,232 @@
+{
+   "checksum": "6f287122bbc7053ab73a0c5e53e9b610",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13073353204478000",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13147728102920707",
+               "stars.id": "ssc_eecc34a015394cb3",
+               "stars.imageData": "Cg5iTGZQUFFQcldYcjVHTRI3Ci9odHRwOi8vY2RuNy5uZmx4aW1nLm5ldC9pbWFnZXMvNzcxNy85OTY3NzE3LmpwZxCmARjpARpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1M5RHkyVldOeUx5cmdfa1lWYk1fSmlVQ1hwLWZvOENpdjhfaGtfWU1HZG5FbFVIQXRuEIQBGLoBIhAIARCEARi6AUIGEgQADXla",
+               "stars.pageData": "Ig5HVzZUVVF2eXZiODhjTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "Netflix",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "http://www.netflix.com/WiHome"
+         }, {
+            "date_added": "13105893099895364",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13147264743755730"
+            },
+            "name": "reddit: the front page of the internet",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13049297474715828",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13148324940763490",
+               "last_visited_desktop": "13148126413607340"
+            },
+            "name": "Speedtest.net by Ookla - The Global Broadband Speed Test",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "http://www.speedtest.net/"
+         }, {
+            "date_added": "13049412746292069",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13147368996321822",
+               "stars.id": "ssc_6137ee0ab154f976",
+               "stars.isSynced": "true"
+            },
+            "name": "Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.amazon.com/?tag=amazusnavi-20&hvadid=32990341088&hvpos=1t1&hvexid=&hvnetw=g&hvrand=2070653684579585065&hvpone=&hvptwo=&hvqmt=e&hvdev=c&ref=pd_sl_7j18redljs_e"
+         }, {
+            "date_added": "13118086554093782",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13148214014661564"
+            },
+            "name": "Homepage - RIT myCourses",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "https://mycourses.rit.edu/d2l/home"
+         }, {
+            "date_added": "13118086588016433",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13143929061390854",
+               "last_visited_desktop": "13147575399373069"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13118086627980095",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13146785703659192",
+               "last_visited_desktop": "13145900513342729"
+            },
+            "name": "CSH Members Portal",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://members.csh.rit.edu/"
+         }, {
+            "date_added": "13118086740551945",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13148213508478248"
+            },
+            "name": "Inbox – jmp1617@g.rit.edu",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "https://inbox.google.com/u/1/?cid=imp&pli=1"
+         }, {
+            "date_added": "13118086751212296",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13147276977397169"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13118187964764554",
+            "id": "17",
+            "name": "Fedora 24/23/22 nVidia Drivers Install Guide | If Not True Then False",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/"
+         }, {
+            "date_added": "13122315196200304",
+            "id": "18",
+            "name": "Skyrim Special Edition Nexus - Mods and Community",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.nexusmods.com/skyrimspecialedition/?"
+         }, {
+            "date_added": "13123691726911484",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13148053537737462"
+            },
+            "name": "Arch Linux",
+            "sync_transaction_version": "6",
+            "type": "url",
+            "url": "https://www.archlinux.org/"
+         }, {
+            "date_added": "13128052742771111",
+            "id": "20",
+            "meta_info": {
+               "last_visited": "13144458360061859",
+               "last_visited_desktop": "13148126260598868"
+            },
+            "name": "Jacob Potter",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "http://jacob-potter.com/"
+         }, {
+            "date_added": "13128287335682977",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13146259457519821"
+            },
+            "name": "Twitter",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://twitter.com/"
+         }, {
+            "date_added": "13132907466025752",
+            "id": "22",
+            "name": "WeBWorK : MATH-182-08_09 : Homework_5a : 9",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://coswebwork.rit.edu/webwork2/MATH-182-08_09/Homework_5a/9/?user=jmp1617&effectiveUser=jmp1617&key=1J9cFY2gmAyyl10Ea81KNtpGgqiew4Uj&theme=&displayMode=MathJax&showOldAnswers=1"
+         }, {
+            "date_added": "13138735579900929",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13147476857695575"
+            },
+            "name": "Plex Media Server - Your media on all your devices",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.plex.tv/"
+         }, {
+            "date_added": "13143468310245513",
+            "id": "24",
+            "meta_info": {
+               "last_visited": "13143986852580549",
+               "last_visited_desktop": "13143990069781179"
+            },
+            "name": "Balances - ethermine.org - The fastest way to mine Ether",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ethermine.org/miners/5da434F80E09Fc2E9cb4A9dCa503b134609D28Fc"
+         } ],
+         "date_added": "13147656663548157",
+         "date_modified": "13148333506630946",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13147656663548162",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "7",
+      "synced": {
+         "children": [ {
+            "date_added": "13061012839618893",
+            "id": "6",
+            "meta_info": {
+               "stars.flags": "4",
+               "stars.id": "ssc_5daf3ab46e68a7dc",
+               "stars.imageData": "Cg51eHZTa0FnOHAtWEdVTRJbClNodHRwOi8vaS5raW5qYS1pbWcuY29tL2dhd2tlci1tZWRpYS9pbWFnZS91cGxvYWQvcy0tVjNqQXFCNjMtLS8xOGl4YXpkdDV5dHlzanBnLmpwZxCDAhjCARpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JjcHhfZmdxMnExQU5ZUTc2ZF9QdlROSGJHRGpaU1FkYVR6MXZCVjBPUmVKbUdZeWF3EIMCGMIBIhAIARCDAhjCAUIGEgSAAAAAKL343MbXzcUC",
+               "stars.pageData": "EtwCUm91Z2hseSBvbmUgeWVhciBhZ28sIGEgdG9vbCBjYWxsZWQgRmlyZXNoZWVwIGludHJvZHVjZWQgYSBsb3Qgb2YgdXMgdG8ganVzdCBob3cgZWFzaWx5IGFub3RoZXIgcGVyc29uIG9uIHRoZSBzYW1lIG5ldHdvcmsgYXMgeW91IGNhbiBzbm9vcCBvbiB5b3VyIGJyb3dzaW5nIHNlc3Npb24gYW5kIGV2ZW4gbWFzcXVlcmFkZSBhcyB5b3Ugb24gc2l0ZXMgdGhhdCByZXF1aXJlIGEgbG9naW4sIGxpa2UsIHBlcmhhcHMgbW9zdCBub3RhYmx5LCBGYWNlYm9vay4gSGVyZSdzIGEgY2xvc2VyIGxvb2sgYXQgaG93IG5ldHdvcmsgc25vb3Bpbmcgd29ya3MgYW5kIGhvdyB0byBwcm90ZWN0IHlvdXJzZWxmIGZyb20gaXQuIg43MXAzT1VzLUtPcjd0TQ==",
+               "stars.type": "2"
+            },
+            "name": "A Guide to Sniffing Out Passwords and Cookies (and How to Protect Yourself Against It)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://lifehacker.com/5853483/a-guide-to-sniffing-out-passwords-and-cookies-and-how-to-protect-yourself-against-it"
+         }, {
+            "date_added": "13061013272468616",
+            "id": "7",
+            "meta_info": {
+               "stars.id": "ssc_51e26bef0e9a79f0",
+               "stars.imageData": "Cg5zcWN5QjNVbTVTOFFxTRJSCkxodHRwOi8vd3d3LmlqYWlsYnJlYWsuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDEwLzAxL1dpRmlJY29uLWlKYWlsYnJlYWsucG5nEHwYfBphCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FQU0hUNVh0R21qUkliVENLWFRwaDJHX2I3enRUTFhyb1E2dGlkV3lBOUtrcXJjOHhjEHwYfCIdCAEQfBh8IOQTQgYSBAACev9KCmltYWdlL2pwZWc=",
+               "stars.pageData": "Eq8BTGVhcm4gaG93IHRvIHNuaWZmIHdpcmVsZXNzIHBhc3N3b3JkcyB1c2luZyBQaXJuaSAobWFuIGluIHRoZSBtaWRkbGUgYXR0YWNrKS4gTGVhcm4gbmV0d29yayBzbmlmZmluZyBhbmQgcG9ydCBzY2FubmluZy4gVGVybWluYWwsIFBpcm5pLCBXaW5TQ1AsIE9wZW5TU0gsIFdpcmVzaGFyayBhcmUgbmVlZGVkLiIOUVdWdS1uOWVhLTQ3TE0=",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank44"
+            },
+            "name": "How To Sniff Wireless Passwords With Pirni (Wireless Routers)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ijailbreak.com/applications/learn-how-to-sniff-wireless-passwords-with-pirni/"
+         } ],
+         "date_added": "13147656663548163",
+         "date_modified": "13061013272468616",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

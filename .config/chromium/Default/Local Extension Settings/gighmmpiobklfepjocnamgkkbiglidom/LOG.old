@@ -1,0 +1,19 @@
+2017/08/17-11:00:41.925 951 Reusing MANIFEST /home/jacob/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2017/08/17-11:00:41.925 951 Recovering log #84
+2017/08/17-11:00:41.951 951 Level-0 table #87: started
+2017/08/17-11:00:41.995 951 Level-0 table #87: 2582493 bytes OK
+2017/08/17-11:00:41.999 951 Delete type=0 #84
+2017/08/17-11:01:43.491 2437 Level-0 table #90: started
+2017/08/17-11:01:43.524 2437 Level-0 table #90: 2582728 bytes OK
+2017/08/17-11:01:43.527 2437 Delete type=0 #88
+2017/08/17-11:01:43.528 2437 Compacting 4@0 + 2@1 files
+2017/08/17-11:01:43.573 2437 Generated table #91@0: 2 keys, 2582664 bytes
+2017/08/17-11:01:43.575 2437 Generated table #92@0: 4 keys, 393 bytes
+2017/08/17-11:01:43.575 2437 Compacted 4@0 + 2@1 files => 2583057 bytes
+2017/08/17-11:01:43.577 2437 compacted to: files[ 0 4 1 0 0 0 0 ]
+2017/08/17-11:01:43.577 2437 Delete type=2 #85
+2017/08/17-11:01:43.577 2437 Delete type=2 #87
+2017/08/17-11:01:43.578 2437 Delete type=2 #81
+2017/08/17-11:01:43.578 2437 Delete type=2 #80
+2017/08/17-11:01:43.578 2437 Delete type=2 #90
+2017/08/17-11:01:43.579 2437 Delete type=2 #83
