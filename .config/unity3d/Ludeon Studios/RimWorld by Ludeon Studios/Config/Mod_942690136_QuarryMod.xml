@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="Quarry.QuarrySettings">
-		<QRY_letterSent>True</QRY_letterSent>
-		<QRY_quarryMaxHealth>8000</QRY_quarryMaxHealth>
-		<QRY_junkChance>10</QRY_junkChance>
-	</ModSettings>
-</SettingsBlock>

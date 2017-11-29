@@ -1,0 +1,104 @@
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #D64937
+*.color9:       #F66957
+
+! green
+*.color2:       #8c9440
+*.color10:      #b5bd68
+
+! yellow
+*.color3:       #de935f
+*.color11:      #f0c674
+
+! blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6
+
+
+! rofi theme
+!rofi.show-icons: true
+rofi.bw: 3
+rofi.color-enabled: true
+!                  bg       border   separator
+rofi.color-window: argb:d0282828, #D64937, #D64937
+!                  bg             fg       bg-alt   hl-bg    hl-fg
+rofi.color-normal: argb:d0282828, #ffffff, argb:d032302f, #555555, #ffffff
+rofi.color-active: argb:d0d79921, #282828, argb:d0d79921, #fabd2f, #282828
+rofi.color-urgent: argb:d0cc241d, #282828, argb:d0cc241d, #fb4934, #282828
+
+rofi.separator-style: solid
+rofi.hide-scrollbar: true
+
+! urxvt
+URxvt.intensityStyles: false
+URxvt.scrollBar: false
+URxvt.resize-font.smaller: C-Down
+URxvt.resize-font.bigger: C-Up
+URxvt.keysym.Control-V:   perl:clipboard:paste
+URxvt.keysym.Control-C:   perl:clipboard:copy
+URxvt*font: xft:Hack:size=12:antialias=true:hinting=true
+
+Xft.autohint:   0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting:    true
+Xft.antialias:  true
+Xft.rgba:       rgb
+
+URxvt.internalBorder: 15
+
+URxvt.perl-ext-common: default,matcher,clipboard,vtwheel,resize-font
+URxvt.url-launcher: /usr/bin/google-chrome-beta
+URxvt.matcher.button: 1
+URxvt.matcher.rend.0: Bold fg6
+
+URxvt*buffered: true
+!
+! effects
+!
+! enable transparency
+URxvt*transparent:          true
+! percentage of shading
+URxvt*.shading:             99
+! shading color
+URxvt*tintColor:            #1C1C1C
+! percentage of fading on unfocused
+!URxvt*fading:              0
+! fading color
+!URxvt*fadeColor:           color
+! use font glyphs
+URxvt*skipBuiltinGlyphs:    true
+! number of lines between row
+URxvt*lineSpace:            0
+! space between letters
+URxvt*letterSpace:          -1
+! cursor underline
+URxvt*cursorUnderline:      true
+! cursor blinking
+URxvt*cursorBlink:          true
+! blank the pointer on keypress or timeout
+URxvt*pointerBlank:         true
+! reverve bf and fg colors
+URxvt*reverseVideo:         false
+
+! colors
+*.cursorColor:  #D64937
+*.background: #282828
+*.foreground: #D64937
+
