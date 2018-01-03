@@ -1,34 +1,60 @@
-! black
-*.color0:       #282a2e
-*.color8:       #373b41
+!! black
+!*.color0:       #282a2e
+!*.color8:       #373b41
 
 ! red
-*.color1:       #D64937
-*.color9:       #F66957
+!*.color1:       #D64937
+!*.color9:       #F66957
 
 ! green
-*.color2:       #8c9440
-*.color10:      #b5bd68
+!*.color2:       #8c9440
+!*.color10:      #b5bd68
 
 ! yellow
-*.color3:       #de935f
-*.color11:      #f0c674
+!*.color3:       #de935f
+!*.color11:      #f0c674
 
 ! blue
-*.color4:       #5f819d
-*.color12:      #81a2be
+!*.color4:       #5f819d
+!*.color12:      #81a2be
 
 ! magenta
-*.color5:       #85678f
-*.color13:      #b294bb
+!*.color5:       #85678f
+!*.color13:      #b294bb
 
 ! cyan
-*.color6:       #5e8d87
-*.color14:      #8abeb7
+!*.color6:       #5e8d87
+!*.color14:      #8abeb7
 
 ! white
-*.color7:       #707880
-*.color15:      #c5c8c6
+!*.color7:       #707880
+!*.color15:      #c5c8c6
+
+! 16 color space
+*.color0: #202020
+*.color1: #da4939
+*.color2: #aaff77
+*.color3: #ffc66d
+*.color4: #6d9cbe
+*.color5: #b6b3eb
+*.color6: #519f50
+*.color7: #e6e1dc
+*.color8: #5e5e5e
+*.color9: #fa6959
+*.color10: #c5f281
+*.color11: #fff68d
+*.color12: #8dbcde
+*.color13: #d6d3fb
+*.color14: #71bf70
+*.color15: #f9f7f3
+
+! 256 color space
+*.color16: #cc7833
+*.color17: #bc9458
+*.color18: #272727
+*.color19: #3a3a3a
+*.color20: #d4cfc9
+*.color21: #f4f1ed
 
 
 ! rofi theme
@@ -36,7 +62,7 @@
 rofi.bw: 3
 rofi.color-enabled: true
 !                  bg       border   separator
-rofi.color-window: argb:d0282828, #D64937, #D64937
+rofi.color-window: argb:d0282828, #aaff77, #aaff77
 !                  bg             fg       bg-alt   hl-bg    hl-fg
 rofi.color-normal: argb:d0282828, #ffffff, argb:d032302f, #555555, #ffffff
 rofi.color-active: argb:d0d79921, #282828, argb:d0d79921, #fabd2f, #282828
@@ -50,9 +76,7 @@ URxvt.intensityStyles: false
 URxvt.scrollBar: false
 URxvt.resize-font.smaller: C-Down
 URxvt.resize-font.bigger: C-Up
-URxvt.keysym.Control-V:   perl:clipboard:paste
-URxvt.keysym.Control-C:   perl:clipboard:copy
-URxvt*font: xft:Hack:size=12:antialias=true:hinting=true
+URxvt*font: xft:Hack:size=12:antialias=true:hinting=true,xft:awesome,xft:noto
 
 Xft.autohint:   0
 Xft.lcdfilter:  lcddefault
@@ -61,7 +85,7 @@ Xft.hinting:    true
 Xft.antialias:  true
 Xft.rgba:       rgb
 
-URxvt.internalBorder: 15
+URxvt.internalBorder: 20
 
 URxvt.perl-ext-common: default,matcher,clipboard,vtwheel,resize-font
 URxvt.url-launcher: /usr/bin/google-chrome-beta
