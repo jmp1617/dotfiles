@@ -191,4 +191,4 @@ exec dunst &
 exec --no-startup-id feh --bg-fill $HOME/Dropbox/Pictures/Wallpaper/spacesurf.png 
 
 #lock
-bindsym $mod+m exec /usr/share/i3lock-fancy/lock -p -t '' -- scrot -z
+bindsym $mod+m exec /usr/share/i3lock-fancy/lock -t '' -- scrot -z
