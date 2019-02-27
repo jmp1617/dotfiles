@@ -1,0 +1,48 @@
+!-----------------
+!Colors
+!-----------------
+! 16 color space
+*.color0: #0b0e10
+*.color1: #34d7e8
+*.color2: #2b99a9
+*.color3: #46c7d6
+*.color4: #6d9cbe
+*.color5: #b6b3eb
+*.color6: #519f50
+*.color7: #e6e1dc
+*.color8: #5e5e5e
+*.color9: #fa6959
+*.color10: #c5f281
+*.color11: #fff68d
+*.color12: #8dbcde
+*.color13: #d6d3fb
+*.color14: #71bf70
+*.color15: #f9f7f3
+
+! 256 color space
+*.color16: #cc7833
+*.color17: #bc9458
+*.color18: #272727
+*.color19: #3a3a3a
+*.color20: #d4cfc9
+*.color21: #f4f1ed
+
+!-----------------
+!ROFI Color theme
+!-----------------
+rofi.color-enabled: true
+rofi.color-window: argb:0b0e1000, #ffffff, #c8ffff
+rofi.color-normal: argb:00000000, #c8ffff, argb:00000000, #c8ffff, #1b2b34
+rofi.color-active: argb:00000000, #c8ffff, argb:00000000, #c8ffff, #1b2b34
+rofi.color-urgent: argb:00000000, #c8ffff, argb:00000000, #c8ffff, #1b2b34
+rofi.font: Hack 14
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.location:0
+rofi.width: 600
+rofi.lines: 20
+rofi.bw:5
+rofi.yoffset: -347
+rofi.xoffset: -940
+rofi.padding: 32
+ied4 rofi.color-urgent: #002b37, #A6AFB8, #002b37, #003642, #da4281
