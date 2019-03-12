@@ -1,0 +1,21 @@
+set $wallpaper /home/jacob/.config/wpg/wallpapers/tron.png
+
+set $background #0b0e10
+set $foreground #c8ffff
+
+set $color0 #0b0e10
+set $color1 #34D7E8
+set $color2 #2B99A9
+set $color3 #46C7D6
+set $color4 #278B96
+set $color5 #3AB5C3
+set $color6 #2CF1FD
+set $color7 #99e0e9
+set $color8 #95a7b6
+set $color9 #31ffff
+set $color10 #2ad1e9
+set $color11 #48ffff
+set $color12 #26becf
+set $color13 #3af8ff
+set $color14 #25ffff
+set $color15 #c8ffff

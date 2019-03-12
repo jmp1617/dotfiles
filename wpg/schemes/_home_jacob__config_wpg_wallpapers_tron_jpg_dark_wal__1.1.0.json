@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jacob/.config/wpg/wallpapers/tron.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060C16",
+        "foreground": "#f6ffff",
+        "cursor": "#f6ffff"
+    },
+    "colors": {
+        "color0": "#060C16",
+        "color1": "#487592",
+        "color2": "#4D887E",
+        "color3": "#5F92AB",
+        "color4": "#366A88",
+        "color5": "#9DC5D2",
+        "color6": "#4FA5BB",
+        "color7": "#dfeeef",
+        "color8": "#0d1c36",
+        "color9": "#4f9bcb",
+        "color10": "#56beac",
+        "color11": "#6ac3ef",
+        "color12": "#398dbd",
+        "color13": "#b4ffff",
+        "color14": "#55e0ff",
+        "color15": "#f6ffff"
+    }
+}

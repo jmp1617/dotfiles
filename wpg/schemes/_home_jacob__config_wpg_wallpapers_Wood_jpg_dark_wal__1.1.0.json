@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jacob/.config/wpg/wallpapers/Wood.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0403",
+        "foreground": "#ffe9d5",
+        "cursor": "#ffe9d5"
+    },
+    "colors": {
+        "color0": "#0a0403",
+        "color1": "#88563A",
+        "color2": "#5D4135",
+        "color3": "#96654D",
+        "color4": "#4E3C43",
+        "color5": "#6F5048",
+        "color6": "#6E4733",
+        "color7": "#d4b1a2",
+        "color8": "#2a0e0a",
+        "color9": "#bd6c3e",
+        "color10": "#82503b",
+        "color11": "#d17e55",
+        "color12": "#6e4555",
+        "color13": "#9c6151",
+        "color14": "#995837",
+        "color15": "#ffe9d5"
+    }
+}

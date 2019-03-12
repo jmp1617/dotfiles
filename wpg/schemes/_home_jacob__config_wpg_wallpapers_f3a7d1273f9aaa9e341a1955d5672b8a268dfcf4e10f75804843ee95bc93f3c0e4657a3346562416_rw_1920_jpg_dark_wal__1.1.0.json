@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jacob/.config/wpg/wallpapers/f3a7d1273f9aaa9e341a1955d5672b8a268dfcf4e10f75804843ee95bc93f3c0e4657a3346562416_rw_1920.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030215",
+        "foreground": "#fff7ff",
+        "cursor": "#fff7ff"
+    },
+    "colors": {
+        "color0": "#030215",
+        "color1": "#9E6495",
+        "color2": "#60549D",
+        "color3": "#553B88",
+        "color4": "#354994",
+        "color5": "#CB7191",
+        "color6": "#6295C4",
+        "color7": "#ccc6d2",
+        "color8": "#06033b",
+        "color9": "#de71cd",
+        "color10": "#725ddb",
+        "color11": "#6a40bd",
+        "color12": "#3757cd",
+        "color13": "#ff7eb6",
+        "color14": "#6cc2ff",
+        "color15": "#fff7ff"
+    }
+}

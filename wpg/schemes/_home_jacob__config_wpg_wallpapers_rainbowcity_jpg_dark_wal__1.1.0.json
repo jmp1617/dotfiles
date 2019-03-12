@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/jacob/.config/wpg/wallpapers/rainbowcity.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010008",
+        "foreground": "#d6ffff",
+        "cursor": "#d6ffff"
+    },
+    "colors": {
+        "color0": "#010008",
+        "color1": "#B92852",
+        "color2": "#305163",
+        "color3": "#8FA271",
+        "color4": "#415C92",
+        "color5": "#4B5967",
+        "color6": "#536794",
+        "color7": "#a2cbcd",
+        "color8": "#06012f",
+        "color9": "#ff2564",
+        "color10": "#346c8a",
+        "color11": "#bde481",
+        "color12": "#4673cb",
+        "color13": "#557391",
+        "color14": "#5c80cf",
+        "color15": "#d6ffff"
+    }
+}

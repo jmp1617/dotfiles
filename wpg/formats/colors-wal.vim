@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/jacob/.config/wpg/wallpapers/tron.png"
+let background = "#0b0e10"
+let foreground = "#c8ffff"
+let cursor     = "#c8ffff"
+
+" Colors
+let color0  = "#0b0e10"
+let color1  = "#34D7E8"
+let color2  = "#2B99A9"
+let color3  = "#46C7D6"
+let color4  = "#278B96"
+let color5  = "#3AB5C3"
+let color6  = "#2CF1FD"
+let color7  = "#99e0e9"
+let color8  = "#95a7b6"
+let color9  = "#31ffff"
+let color10 = "#2ad1e9"
+let color11 = "#48ffff"
+let color12 = "#26becf"
+let color13 = "#3af8ff"
+let color14 = "#25ffff"
+let color15 = "#c8ffff"
