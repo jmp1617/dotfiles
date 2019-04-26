@@ -1,0 +1,176 @@
+{
+   "checksum": "db02c59bc404c2f919d25e96b00dface",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13118086554093782",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13189123333622788"
+            },
+            "name": "Homepage - RIT myCourses",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://mycourses.rit.edu/d2l/home"
+         }, {
+            "date_added": "13164250461534961",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13188246762137302"
+            },
+            "name": "Apple",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://www.apple.com/"
+         }, {
+            "date_added": "13164250461544520",
+            "id": "9",
+            "name": "Google",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "https://www.google.com/?client=safari&channel=iphone_bm"
+         }, {
+            "date_added": "13164407455274998",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13195742705286507"
+            },
+            "name": "GitHub · Where software is built",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13180033231881900",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13188001717106643"
+            },
+            "name": "Vitalsource: Library",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "https://bookshelf.vitalsource.com/#/"
+         }, {
+            "date_added": "13181675265867958",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13183695446965573"
+            },
+            "name": "My Communities | Discover | Massdrop",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "https://www.massdrop.com/my-communities"
+         }, {
+            "date_added": "13181711347982077",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13196460961282490"
+            },
+            "name": "Netflix",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13181973294566615",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13181973294568288"
+            },
+            "name": "c - Opengl Translate/Rotate single Objects from same Buffer - Stack Overflow",
+            "sync_transaction_version": "19",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/49564419/opengl-translate-rotate-single-objects-from-same-buffer"
+         }, {
+            "date_added": "13182482243092405",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13182482243093820"
+            },
+            "name": "arch",
+            "sync_transaction_version": "20",
+            "type": "url",
+            "url": "https://www.saiprograms.com/florence/fua/fua-spring-semester-2019"
+         }, {
+            "date_added": "13182725458145448",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13184041205324232"
+            },
+            "name": "Santa Reparata International School of Art, Forms",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "https://srisa.org/forms/"
+         }, {
+            "date_added": "13185860923411748",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13186286967613077"
+            },
+            "name": "The Holmegaard Bow Reconstruction. - Digital Digging",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.digitaldigging.net/holmegaard-bow-reconstruction/"
+         }, {
+            "date_added": "13185862946540721",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13185862971141958"
+            },
+            "name": "Bow and Arrow Hunting - A History of the Technology",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.thoughtco.com/bow-and-arrow-hunting-history-4135970"
+         }, {
+            "date_added": "13188793340308730",
+            "id": "19",
+            "name": "New Tab",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13196897509656409",
+         "date_modified": "13188793340308730",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13196897509656415",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "21",
+      "synced": {
+         "children": [ {
+            "date_added": "13061012839618893",
+            "id": "5",
+            "meta_info": {
+               "stars.flags": "4",
+               "stars.id": "ssc_5daf3ab46e68a7dc",
+               "stars.imageData": "Cg51eHZTa0FnOHAtWEdVTRJbClNodHRwOi8vaS5raW5qYS1pbWcuY29tL2dhd2tlci1tZWRpYS9pbWFnZS91cGxvYWQvcy0tVjNqQXFCNjMtLS8xOGl4YXpkdDV5dHlzanBnLmpwZxCDAhjCARpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JjcHhfZmdxMnExQU5ZUTc2ZF9QdlROSGJHRGpaU1FkYVR6MXZCVjBPUmVKbUdZeWF3EIMCGMIBIhAIARCDAhjCAUIGEgSAAAAAKL343MbXzcUC",
+               "stars.pageData": "EtwCUm91Z2hseSBvbmUgeWVhciBhZ28sIGEgdG9vbCBjYWxsZWQgRmlyZXNoZWVwIGludHJvZHVjZWQgYSBsb3Qgb2YgdXMgdG8ganVzdCBob3cgZWFzaWx5IGFub3RoZXIgcGVyc29uIG9uIHRoZSBzYW1lIG5ldHdvcmsgYXMgeW91IGNhbiBzbm9vcCBvbiB5b3VyIGJyb3dzaW5nIHNlc3Npb24gYW5kIGV2ZW4gbWFzcXVlcmFkZSBhcyB5b3Ugb24gc2l0ZXMgdGhhdCByZXF1aXJlIGEgbG9naW4sIGxpa2UsIHBlcmhhcHMgbW9zdCBub3RhYmx5LCBGYWNlYm9vay4gSGVyZSdzIGEgY2xvc2VyIGxvb2sgYXQgaG93IG5ldHdvcmsgc25vb3Bpbmcgd29ya3MgYW5kIGhvdyB0byBwcm90ZWN0IHlvdXJzZWxmIGZyb20gaXQuIg43MXAzT1VzLUtPcjd0TQ==",
+               "stars.type": "2"
+            },
+            "name": "A Guide to Sniffing Out Passwords and Cookies (and How to Protect Yourself Against It)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://lifehacker.com/5853483/a-guide-to-sniffing-out-passwords-and-cookies-and-how-to-protect-yourself-against-it"
+         }, {
+            "date_added": "13061013272468616",
+            "id": "6",
+            "name": "How To Sniff Wireless Passwords With Pirni (Wireless Routers)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ijailbreak.com/applications/learn-how-to-sniff-wireless-passwords-with-pirni/"
+         } ],
+         "date_added": "13196897509656415",
+         "date_modified": "13061013272468616",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

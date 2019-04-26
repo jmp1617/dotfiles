@@ -1,0 +1,14 @@
+2019/03/13-13:44:53.821 3cb Reusing MANIFEST /home/jacob/.config/google-chrome-beta/Default/Session Storage/MANIFEST-000001
+2019/03/13-13:44:53.821 3cb Recovering log #8
+2019/03/13-13:44:53.821 3cb Reusing old log /home/jacob/.config/google-chrome-beta/Default/Session Storage/000008.log 
+2019/03/13-13:55:31.091 50f Level-0 table #12: started
+2019/03/13-13:55:31.096 50f Level-0 table #12: 18692 bytes OK
+2019/03/13-13:55:31.098 50f Delete type=0 #8
+2019/03/13-13:55:31.098 50f Compacting 4@0 + 0@1 files
+2019/03/13-13:55:31.100 50f Generated table #13@0: 43 keys, 21685 bytes
+2019/03/13-13:55:31.100 50f Compacted 4@0 + 0@1 files => 21685 bytes
+2019/03/13-13:55:31.102 50f compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/03/13-13:55:31.102 50f Delete type=2 #3
+2019/03/13-13:55:31.102 50f Delete type=2 #9
+2019/03/13-13:55:31.102 50f Delete type=2 #12
+2019/03/13-13:55:31.102 50f Delete type=2 #6

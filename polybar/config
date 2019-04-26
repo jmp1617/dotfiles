@@ -12,7 +12,7 @@ tronblue = #C8FFFF
 
 
 [bar/main]
-monitor = eDP1
+monitor = eDP-1
 width = 100%
 height = 40
 bottom = false
@@ -35,7 +35,7 @@ cursor-scroll = ns-resize
 scroll-up = i3wm-wsnext
 scroll-down = i3wm-wsprev
 modules-left = arch i3 term browser bluetooth files
-modules-right = mpd filesystem memory cpu geoloc publicip wireless-network network backlight volume date battery
+modules-right = mpd filesystem memory cpu vpn geoloc publicip wireless-network network backlight volume date battery
 
 
 [module/i3]
@@ -85,7 +85,7 @@ fixed-values = true
 spacing = 4
 format-mounted = <label-mounted> <bar-used>
 label-mounted = 
-bar-used-width = 14
+bar-used-width = 7
 bar-used-foreground-0 = ${color.blue}
 bar-used-foreground-1 = ${color.blue}
 bar-used-indicator = |
@@ -98,27 +98,36 @@ bar-used-empty-foreground = #303030
 [module/mpd]
 type = internal/mpd
 ;format-online = <toggle> <label-song> 
-format-online =  <label-song> 
+format-online =  <label-song>
+format-offline =  Offline
+label-song = %artist%
 icon-play = 
 icon-pause = 
-label-song-maxlen = 40
 label-song-ellipsis = true
 interval = 1
 
 
 [module/publicip]
 type = custom/script
-interval = 60
+interval = 1
 format = <label>
 label = " %output%"
 exec = /home/jacob/.config/polybar/ip_get
 
 
+[module/vpn]
+type = custom/script
+interval = 1
+format = <label>
+label = "%output%"
+exec = /home/jacob/.config/polybar/vpn_status.py
+
+
 [module/geoloc]
 type = custom/script
-interval = 60
+interval = 1
 format = <label>
-label = " %output%"
+label = "%output%"
 exec = /home/jacob/.config/polybar/ipget.py
 
 
@@ -126,7 +135,7 @@ exec = /home/jacob/.config/polybar/ipget.py
 type = internal/memory
 format = <label> <bar-used>
 label =  
-bar-used-width = 14
+bar-used-width = 7
 bar-used-foreground-0 = ${color.blue}
 bar-used-foreground-1 = ${color.blue}
 bar-used-foreground-2 = #fba922
@@ -197,8 +206,8 @@ battery = BAT0
 adapter = AC
 format-charging =<label-charging>
 label-charging =%percentage%%
-format-discharging =<ramp-capacity><label-discharging>
-label-discharging =%percentage%%
+format-discharging =<ramp-capacity>
+label-discharging =%time%
 format-full =<label-full>
 label-full =100%
 ramp-capacity-0 =
@@ -215,7 +224,7 @@ type = internal/cpu
 interval = 0.5
 format = <label> <bar-load>
 label = 
-bar-load-width = 14
+bar-load-width = 7
 bar-load-foreground-0 = ${color.blue}
 bar-load-foreground-1 = ${color.blue}
 bar-load-foreground-2 = #fba922

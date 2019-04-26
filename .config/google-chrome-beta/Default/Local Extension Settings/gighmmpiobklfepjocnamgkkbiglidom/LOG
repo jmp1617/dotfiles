@@ -1,0 +1,20 @@
+2019/03/13-13:44:53.730 3f5 Reusing MANIFEST /home/jacob/.config/google-chrome-beta/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2019/03/13-13:44:53.730 3f5 Recovering log #35
+2019/03/13-13:44:53.730 3f5 Reusing old log /home/jacob/.config/google-chrome-beta/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000035.log 
+2019/03/13-13:45:54.516 50f Level-0 table #39: started
+2019/03/13-13:45:54.560 50f Level-0 table #39: 3968889 bytes OK
+2019/03/13-13:45:54.562 50f Delete type=0 #35
+2019/03/13-13:45:54.564 50f Compacting 4@0 + 2@1 files
+2019/03/13-13:45:54.627 50f Generated table #40@0: 1 keys, 3968780 bytes
+2019/03/13-13:45:54.629 50f Generated table #41@0: 4 keys, 438 bytes
+2019/03/13-13:45:54.629 50f Compacted 4@0 + 2@1 files => 3969218 bytes
+2019/03/13-13:45:54.631 50f compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/03/13-13:45:54.631 50f Delete type=2 #31
+2019/03/13-13:45:54.631 50f Delete type=2 #39
+2019/03/13-13:45:54.631 50f Delete type=2 #29
+2019/03/13-13:45:54.631 50f Delete type=2 #28
+2019/03/13-13:45:54.632 50f Delete type=2 #34
+2019/03/13-13:45:54.632 50f Delete type=2 #36
+2019/03/13-13:48:27.182 50f Level-0 table #43: started
+2019/03/13-13:48:27.232 50f Level-0 table #43: 3969021 bytes OK
+2019/03/13-13:48:27.235 50f Delete type=0 #38

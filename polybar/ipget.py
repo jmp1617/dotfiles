@@ -3,8 +3,16 @@
 import sys
 import subprocess
 
-ip = subprocess.check_output(['whereami','-f','human']).decode("utf-8").strip('\n')
-ip = str(ip.split('\n')).split(',')
-length = len(ip)
-ip = ip[length-2].strip('\'').strip(' ')
-sys.stdout.write( ip )
+try:
+    if 'tun0' in (subprocess.check_output(['nmcli','connection']).decode("utf-8")):
+        icon = ''
+    else:
+        icon = ''
+except:
+    icon = ''
+
+try:
+    location = subprocess.check_output(['geo','-g']).decode("utf-8").split('\n')
+    sys.stdout.write( icon + ' ' + location[2]+', '+location[0] )
+except:
+    sys.stdout.write('connecting ..')
