@@ -1,0 +1,41 @@
+[options]
+allow_bold = true
+clickable_url = true
+font = Hack 14
+scroll_on_output = true
+scrollback_lines = 10000
+cursor_blink = on
+cursor_shape = underline
+
+[colors]
+foreground = #FFFFFF
+foreground_bold = #FFFFFF
+cursor = #FFFFFF
+background = rgba(0, 0, 0, 0.5)
+
+
+# 16 color space
+color0 = #0b0e10
+color1 = #34d7e8
+color2 = #2b99a9
+color3 = #46c7d6
+color4 = #278b96
+color5 = #3ab5c3
+color6 = #2cf1fd
+color7 = #99e0e9
+color8 = #95a7b6
+color9 = #31ffff
+color10 = #2ad1e9
+color11 = #48ffff
+color12 = #26becf
+color13 = #3af8ff
+color14 = #25ffff
+color15 = #ffffff
+
+# 256 color space
+#color16 = #cc7833
+#color17 = #bc9458
+#color18 = #272727
+#color19 = #3a3a3a
+#color20 = #d4cfc9
+#color21 = #f4f1ed
